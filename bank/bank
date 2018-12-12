@@ -1,0 +1,6 @@
+create table member (
+    -> id varchar(10) primary key,
+    -> name varchar(10),
+    -> age int,
+    -> tel varchar(15)
+    -> );
